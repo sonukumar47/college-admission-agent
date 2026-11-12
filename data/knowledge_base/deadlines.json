@@ -1,0 +1,42 @@
+{
+  "college": "Greenfield University",
+  "academic_year": "2024-2025",
+  "documents": [
+    {
+      "id": "deadline_001",
+      "category": "deadlines",
+      "title": "Undergraduate Application Deadlines 2024-2025",
+      "content": "Early Decision (ED) deadline: November 1, 2024. ED notification date: December 15, 2024. Early Action (EA) deadline: November 1, 2024. EA notification date: January 15, 2025. Regular Decision (RD) deadline: January 15, 2025. RD notification date: March 15, 2025. Enrollment deposit deadline for all admitted students: May 1, 2025. Late applications may be considered on a space-available basis after January 15."
+    },
+    {
+      "id": "deadline_002",
+      "category": "deadlines",
+      "title": "Graduate Application Deadlines 2024-2025",
+      "content": "Fall 2025 admission priority deadline: January 15, 2025. Fall 2025 final deadline: March 1, 2025. Spring 2025 admission deadline: October 1, 2024. MBA program deadline (Fall): February 1, 2025 (Round 1), March 15, 2025 (Round 2). MS in AI and Data Science: January 15, 2025 for priority funding consideration. Nursing BSN supplemental application deadline: December 1, 2024."
+    },
+    {
+      "id": "deadline_003",
+      "category": "deadlines",
+      "title": "Financial Aid and Scholarship Deadlines",
+      "content": "FAFSA priority deadline: February 15, 2025 (for maximum aid consideration). FAFSA final deadline: April 1, 2025. CSS Profile deadline (for institutional aid): February 1, 2025. Scholarship applications (external): Varies by scholarship — check the financial aid portal. Scholarship renewal documentation due: May 15 each year. Verification documents for financial aid: within 2 weeks of receiving the aid notification."
+    },
+    {
+      "id": "deadline_004",
+      "category": "deadlines",
+      "title": "Enrollment and Orientation Deadlines",
+      "content": "Enrollment deposit deadline: May 1, 2025. Housing application opens: April 1, 2025. Housing selection deadline: June 1, 2025 (first-come, first-served). New student orientation registration: July 15, 2025. Fall semester orientation dates: August 20-22, 2025. First day of fall classes: August 25, 2025. Spring semester start date: January 13, 2025. Add/drop deadline (fall): September 5, 2025."
+    },
+    {
+      "id": "deadline_005",
+      "category": "deadlines",
+      "title": "Transfer Student Deadlines",
+      "content": "Transfer applications for Fall 2025: Priority deadline March 1, 2025; Final deadline May 15, 2025. Transfer applications for Spring 2025: October 15, 2024. Official transcripts must arrive within 2 weeks of application submission. Transfer credit evaluation completed within 4 weeks of all documents received. Transfer orientation: August 19, 2025."
+    },
+    {
+      "id": "deadline_006",
+      "category": "deadlines",
+      "title": "International Student Deadlines",
+      "content": "International undergraduate application deadline: December 1, 2024 (to allow sufficient time for visa processing). International graduate application deadline: December 15, 2024. TOEFL/IELTS scores must be submitted by application deadline (no exceptions). I-20 document issued within 2 weeks of enrollment deposit. Apply for student visa (F-1) at least 3 months before program start. Passport validity must extend at least 6 months beyond the intended period of stay."
+    }
+  ]
+}

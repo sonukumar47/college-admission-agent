@@ -1,0 +1,66 @@
+{
+  "college": "Greenfield University",
+  "academic_year": "2024-2025",
+  "documents": [
+    {
+      "id": "faq_001",
+      "category": "faq",
+      "title": "How do I apply to Greenfield University?",
+      "content": "You can apply to Greenfield University through the Common Application (CommonApp) at commonapp.org or through our university portal at apply.greenfield.edu. Create an account, complete all sections of the application including personal information, academic history, test scores, extracurricular activities, and the personal statement. Pay the $65 application fee (domestic) or $85 (international), or request a fee waiver. Submit all required documents including official transcripts and letters of recommendation before the deadline."
+    },
+    {
+      "id": "faq_002",
+      "category": "faq",
+      "title": "What is the acceptance rate at Greenfield University?",
+      "content": "Greenfield University's overall acceptance rate is approximately 45%. Early Decision applicants have a higher acceptance rate of around 40% of ED applicants are admitted (though this pool self-selects for highly interested students). Regular Decision acceptance rate is approximately 25%. The acceptance rate varies by program — highly competitive programs like Nursing (15%) and Computer Science (30%) are more selective than others."
+    },
+    {
+      "id": "faq_003",
+      "category": "faq",
+      "title": "Is the SAT or ACT required?",
+      "content": "Greenfield University is currently test-optional for the 2024-2025 application cycle. Students may choose to submit SAT or ACT scores if they believe the scores strengthen their application. If submitted, the minimum recommended SAT score is 1100 and ACT is 22. Submitting scores below these benchmarks may not strengthen the application. Students who do not submit test scores will be evaluated based on GPA, coursework rigor, recommendations, and personal statement."
+    },
+    {
+      "id": "faq_004",
+      "category": "faq",
+      "title": "Can I visit the campus before applying?",
+      "content": "Yes! Campus tours are available Monday through Friday at 10 AM and 2 PM, and select Saturdays at 10 AM. Tours are led by current students and last approximately 75 minutes. You can register for a campus tour at visit.greenfield.edu. Virtual tours are available 24/7 on our website. Open House events are held in October (October 12, 2024) and April (April 5, 2025), which include department information sessions, faculty meet-and-greets, and lunch with current students."
+    },
+    {
+      "id": "faq_005",
+      "category": "faq",
+      "title": "What documents are required for international students?",
+      "content": "International students must submit: completed application form, official secondary school transcripts (translated to English by a certified translator if not in English), TOEFL (minimum 80 iBT) or IELTS (minimum 6.5 band) scores, SAT/ACT scores (optional but recommended), financial affidavit showing sufficient funds for one year of study (minimum $35,000 USD), copy of valid passport, and two letters of recommendation. Some programs may require additional documents. All documents must be official and submitted directly from the issuing institution."
+    },
+    {
+      "id": "faq_006",
+      "category": "faq",
+      "title": "How can I check my application status?",
+      "content": "After submitting your application, you will receive a confirmation email with login credentials for the Greenfield Applicant Portal at portal.greenfield.edu. Log in to track your application status, see which documents have been received, view missing items, and receive your admission decision. Allow 3-5 business days after submission for your portal to be activated. If you do not receive the confirmation email within 24 hours of submitting, check your spam folder or contact admissions at admissions@greenfield.edu."
+    },
+    {
+      "id": "faq_007",
+      "category": "faq",
+      "title": "What financial aid is available for students?",
+      "content": "Greenfield University offers several types of financial aid: merit scholarships (automatic at admission based on GPA/test scores), need-based grants (requires FAFSA submission by February 15), federal loans (subsidized and unsubsidized for eligible US citizens), work-study programs (part-time on-campus employment), and external scholarship matching. Over 85% of Greenfield students receive some form of financial assistance. The average financial aid package for freshmen is $14,500/year. Contact finaid@greenfield.edu for personalized aid counseling."
+    },
+    {
+      "id": "faq_008",
+      "category": "faq",
+      "title": "Can I change my major after enrolling?",
+      "content": "Yes, students may change their major within the same college or school without additional application. Changes between colleges (e.g., from Engineering to Business) require a formal transfer application within the university, typically submitted before the end of sophomore year. Some programs (Nursing, Architecture) have limited capacity and may require meeting specific GPA requirements for internal transfers. Contact your academic advisor to initiate a major change — major changes must be finalized before registration for the following semester."
+    },
+    {
+      "id": "faq_009",
+      "category": "faq",
+      "title": "Is on-campus housing guaranteed for freshmen?",
+      "content": "Yes, on-campus housing is guaranteed for all admitted freshmen who submit the housing application and deposit by June 1, 2025. Freshmen are typically assigned to residence halls by late July. Students may indicate roommate preferences or request to be matched with a compatible roommate. After the freshman year, housing is not guaranteed and follows a lottery system based on credit hours earned. Special accommodation requests (medical, accessibility) should be submitted to the Office of Residential Life."
+    },
+    {
+      "id": "faq_010",
+      "category": "faq",
+      "title": "What career services are available?",
+      "content": "The Greenfield Career Center offers resume and cover letter reviews, mock interviews, career fairs (held each fall and spring), job and internship postings through GreenConnect platform, alumni mentorship program, graduate school application assistance, and on-campus recruiting with 200+ employer partners. 94% of graduates are employed or in graduate school within 6 months of graduation. Career services are available to all enrolled students and alumni for up to 2 years after graduation."
+    }
+  ]
+}

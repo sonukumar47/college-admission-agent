@@ -1,0 +1,42 @@
+{
+  "college": "Greenfield University",
+  "academic_year": "2024-2025",
+  "documents": [
+    {
+      "id": "policy_001",
+      "category": "admission_policy",
+      "title": "General Admission Policy",
+      "content": "Greenfield University welcomes applications from students worldwide. Admission is based on academic merit, personal statement, and extracurricular achievements. All applicants must submit a completed application form, official transcripts, standardized test scores (SAT/ACT), two letters of recommendation, and a personal statement of 500-700 words. Applications are reviewed holistically; no single factor determines admission. The university does not discriminate based on race, gender, religion, nationality, or disability."
+    },
+    {
+      "id": "policy_002",
+      "category": "admission_policy",
+      "title": "Undergraduate Admission Requirements",
+      "content": "Undergraduate applicants must have completed high school or equivalent with a minimum GPA of 3.0 on a 4.0 scale. SAT score of at least 1100 or ACT composite score of at least 22 is required. International students must submit TOEFL (minimum 80 iBT) or IELTS (minimum 6.5 band) scores. Transfer students need a minimum college GPA of 2.5 and at least 30 transferable credit hours."
+    },
+    {
+      "id": "policy_003",
+      "category": "admission_policy",
+      "title": "Graduate Admission Requirements",
+      "content": "Graduate applicants must hold a bachelor's degree from an accredited institution with a minimum GPA of 3.0. GRE or GMAT scores are required for most programs. A statement of purpose, resume/CV, and three letters of recommendation are mandatory. Some programs may require additional prerequisites, portfolio, or interviews. International applicants must submit TOEFL (minimum 90 iBT) or IELTS (minimum 7.0) scores."
+    },
+    {
+      "id": "policy_004",
+      "category": "admission_policy",
+      "title": "Early Decision and Early Action Policy",
+      "content": "Greenfield University offers Early Decision (ED) and Early Action (EA) options. Early Decision is binding — students who apply ED and are accepted must enroll and withdraw all other applications. Early Action is non-binding; students may apply to other schools and have until May 1 to decide. ED applicants typically receive a higher acceptance rate (approximately 40%) compared to regular decision (approximately 25%). Both ED and EA require all materials submitted by November 1."
+    },
+    {
+      "id": "policy_005",
+      "category": "admission_policy",
+      "title": "Scholarship and Financial Aid Policy",
+      "content": "Merit scholarships are awarded automatically at the time of admission based on GPA and test scores. Students with a GPA of 3.8 or above and SAT 1400+ qualify for the Presidential Scholarship covering 50% of tuition. Need-based aid is available through FAFSA submission. Students must submit FAFSA by February 15 for priority consideration. Scholarship recipients must maintain a 3.5 GPA to retain the award each year."
+    },
+    {
+      "id": "policy_006",
+      "category": "admission_policy",
+      "title": "Deferral and Gap Year Policy",
+      "content": "Admitted students may request a one-year deferral to take a gap year. Deferral requests must be submitted in writing by June 1. A non-refundable enrollment deposit of $500 must be paid to hold the deferred spot. Deferred students may not attend another college during the gap year. Re-evaluation of admission is not required for deferred students."
+    }
+  ]
+}

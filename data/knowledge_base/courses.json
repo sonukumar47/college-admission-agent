@@ -1,0 +1,48 @@
+{
+  "college": "Greenfield University",
+  "academic_year": "2024-2025",
+  "documents": [
+    {
+      "id": "course_001",
+      "category": "courses",
+      "title": "Bachelor of Science in Computer Science",
+      "content": "The BS in Computer Science is a 4-year program requiring 120 credit hours. Core subjects include Data Structures, Algorithms, Operating Systems, Database Management, Software Engineering, Artificial Intelligence, and Computer Networks. Students choose a specialization in Cybersecurity, AI/ML, or Software Development in their 3rd year. Admission requires SAT Math score of 650+ or ACT Math 28+. The program has a co-op option for industry experience."
+    },
+    {
+      "id": "course_002",
+      "category": "courses",
+      "title": "Bachelor of Business Administration",
+      "content": "The BBA program is a 4-year degree requiring 120 credit hours. Specializations available: Finance, Marketing, Human Resources, Entrepreneurship, and International Business. Core courses include Microeconomics, Macroeconomics, Business Law, Accounting, Statistics, and Organizational Behavior. Students complete a 6-month internship in their final year. Accredited by AACSB. Minimum GPA requirement: 3.0."
+    },
+    {
+      "id": "course_003",
+      "category": "courses",
+      "title": "Bachelor of Science in Data Science",
+      "content": "The BS in Data Science is a 4-year interdisciplinary program combining statistics, computer science, and domain knowledge. Requires 128 credit hours. Key courses: Python Programming, Machine Learning, Statistical Modeling, Big Data Analytics, Data Visualization, and Business Intelligence. Capstone project in final year with industry partner. Strong placement record — 95% employment within 6 months of graduation."
+    },
+    {
+      "id": "course_004",
+      "category": "courses",
+      "title": "Bachelor of Engineering in Electrical Engineering",
+      "content": "The BE in Electrical Engineering is a 4-year ABET-accredited program requiring 132 credit hours. Covers Circuit Theory, Electromagnetics, Signal Processing, Power Systems, Control Systems, and VLSI Design. Lab-intensive curriculum with access to state-of-the-art electronics labs. Students may pursue thesis or non-thesis track. GRE not required for undergraduate admission."
+    },
+    {
+      "id": "course_005",
+      "category": "courses",
+      "title": "Master of Science in Artificial Intelligence",
+      "content": "The MS in AI is a 2-year graduate program requiring 36 credit hours. Core courses: Deep Learning, Natural Language Processing, Computer Vision, Reinforcement Learning, AI Ethics, and Research Methods. Students complete a thesis or a comprehensive project. Admission requires a BS in CS, Math, or related field with GPA 3.2+. GRE required (Quant 160+). Program is offered in full-time and part-time formats."
+    },
+    {
+      "id": "course_006",
+      "category": "courses",
+      "title": "Master of Business Administration (MBA)",
+      "content": "The MBA program is a 2-year degree requiring 60 credit hours. Concentrations: Strategy, Finance, Technology Management, Healthcare Administration, and Supply Chain. Includes two international study trips and a consulting project with Fortune 500 companies. Admission requires 2+ years work experience, GMAT 550+ or GRE equivalent, and undergraduate GPA 3.0+. Part-time and executive MBA options available."
+    },
+    {
+      "id": "course_007",
+      "category": "courses",
+      "title": "Bachelor of Science in Nursing",
+      "content": "The BSN program is a 4-year degree requiring 130 credit hours accredited by ACEN. Clinical rotations start in year 2 at affiliated hospitals and healthcare centers. Prerequisites include Biology, Chemistry, and Anatomy with a grade of B or above. NCLEX pass rate: 98%. Admission is competitive with a separate application process including a nursing supplemental application and interview."
+    }
+  ]
+}

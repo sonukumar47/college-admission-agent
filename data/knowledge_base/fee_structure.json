@@ -1,0 +1,42 @@
+{
+  "college": "Greenfield University",
+  "academic_year": "2024-2025",
+  "documents": [
+    {
+      "id": "fee_001",
+      "category": "fee_structure",
+      "title": "Undergraduate Tuition and Fees",
+      "content": "Undergraduate tuition for domestic students is $18,500 per academic year (2 semesters). International undergraduate tuition is $26,000 per academic year. Per-credit-hour rate for part-time students: $780 (domestic), $1,100 (international). Student activity fee: $350/year. Technology fee: $250/year. Health services fee: $400/year. Total estimated cost of attendance for domestic undergraduates including housing and meals: $32,000/year."
+    },
+    {
+      "id": "fee_002",
+      "category": "fee_structure",
+      "title": "Graduate Tuition and Fees",
+      "content": "Graduate tuition for domestic students is $22,000 per academic year. International graduate tuition is $29,500 per academic year. Per-credit-hour rate: $920 (domestic), $1,230 (international). MBA program has a flat fee of $45,000 for the full 2-year program (domestic) or $58,000 (international). Engineering and Science programs may have additional lab fees of $200-$500/semester. Graduate student fees (activity + technology + health): $900/year."
+    },
+    {
+      "id": "fee_003",
+      "category": "fee_structure",
+      "title": "Housing and Meal Plans",
+      "content": "On-campus housing costs range from $5,500 to $8,000 per academic year depending on room type. Double occupancy: $5,500/year. Single occupancy: $7,200/year. Suite-style: $8,000/year. Meal plans are mandatory for freshmen living on campus. Standard meal plan (14 meals/week): $3,800/year. Premium meal plan (21 meals/week + $200 dining dollars): $4,800/year. Off-campus housing average in the area: $700-$1,200/month."
+    },
+    {
+      "id": "fee_004",
+      "category": "fee_structure",
+      "title": "Application and Enrollment Fees",
+      "content": "Application fee: $65 (domestic), $85 (international). Fee waivers available for eligible low-income applicants — request via Common App fee waiver or contact admissions. Enrollment deposit (non-refundable, credited to first semester bill): $300 for undergraduates, $400 for graduate students. AP/IB credit evaluation fee: $25 per exam. Official transcript request fee: $10 per copy."
+    },
+    {
+      "id": "fee_005",
+      "category": "fee_structure",
+      "title": "Scholarships and Financial Aid Awards",
+      "content": "Presidential Scholarship: $9,250/year (50% tuition) for GPA 3.8+ and SAT 1400+. Dean's Scholarship: $5,550/year (30% tuition) for GPA 3.5+ and SAT 1250+. Merit Scholarship: $2,775/year (15% tuition) for GPA 3.2+ and SAT 1100+. International Excellence Award: $8,000/year for international students with outstanding academic records. Need-based grants range from $1,000 to $15,000/year based on FAFSA EFC. Federal Pell Grant: up to $7,395/year for qualifying students."
+    },
+    {
+      "id": "fee_006",
+      "category": "fee_structure",
+      "title": "Payment Plans and Policies",
+      "content": "Tuition is due by August 15 (fall semester) and January 10 (spring semester). Greenfield University offers a 4-month interest-free payment plan through Nelnet Campus Commerce for a $50 enrollment fee. Late payment penalty: 1.5% per month on unpaid balances. Students with outstanding balances may not register for the next semester or receive transcripts. Payment can be made via bank transfer, credit/debit card (2.5% convenience fee), or check."
+    }
+  ]
+}
